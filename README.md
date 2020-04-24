@@ -1,4 +1,5 @@
-[![Build Status](https://dev.azure.com/EVANWONG/Test/_apis/build/status/echoesian.pipelines-java?branchName=master)](https://dev.azure.com/EVANWONG/Test/_build/latest?definitionId=3&branchName=master)
+[![Build Status](https://dev.azure.com/wongsk/pipelines-java/_apis/build/status/echoesian.pipelines-java?branchName=master)](https://dev.azure.com/wongsk/pipelines-java/_build/latest?definitionId=3&branchName=master)
+
 
 # Contributing
 
